@@ -1,38 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Repos: um repositório web para trabalhos acadêmicos dos Institutos Federais.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/72924450/214700112-5af2d6f4-63b4-4eda-a5cd-a4ecc7acc6cf.png)
 
-First, run the development server:
+## Índice
+- Resumo do projeto;
+- Style Guide e protótipo em desenvolvimento;
+- Passos seguintes;
+- Autor;
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Resumo do projeto
+A ideia de uma aplicação web surgiu ainda no meio do curso técnico, quando eu e vários outros estudantes relatamos dificuldade em encotrar outros artigos desenvolvidos por estudantes do campus de forma simplificada. Dada essa necessidade, idealizei uma aplicação que busca servir como repositório para os trabalhos acadêmicos da instituição, para facilitar o desenvolvimento do trabalho de conclusão de curso. A aplicação está sendo desenvolvida utilizando Next.JS com Typescript e Tailwind CSS. Pretendo desenvolver o backend da aplicação utilizando Express com Prisma ORM para a manipulação do banco de dados em MySQL.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Style Guide e protótipo
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+O protótipo da aplicação está sendo desenvolvido no Figma, de modo iterativo ao desenvolvimento.
+![Style Guide](https://user-images.githubusercontent.com/72924450/214706680-84680ffc-d8e5-4eea-ac8f-04562ea9a45d.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Cores e fontes utilizadas na aplicação
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+![image](https://user-images.githubusercontent.com/72924450/214707050-92543ad2-20b7-4545-9b8d-7cd5c2ee1914.png)
 
-To learn more about Next.js, take a look at the following resources:
+Interface desktop da aplicação
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](https://user-images.githubusercontent.com/72924450/214708235-fca16da4-b547-4df9-8a26-3a7e1b3f66f9.png)
 
-## Deploy on Vercel
+Interface desktop dark mode da aplicação
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://user-images.githubusercontent.com/72924450/214700112-5af2d6f4-63b4-4eda-a5cd-a4ecc7acc6cf.png)
+
+Interfaces mobile light e dark mode
+
+## Passos seguintes
+A aplicação está em fase inicial de desenvolvimento. Espero ainda poder aplicar diversos conceitos, tais como autenticação com JWT, desenvolvimento de APIs REST com NodeJS e manipulação do banco através de um ORM. Após seu desenvolvimento, busco entrar o campus para implantar o sistema. Caso queira discutir o projeto comigo, entre em contato!!
+
+## Sobre o autor
+João Vitor, um desenvolvedor orientado ao usuário e que ama pôr suas ideias em prática através do código!
+
+LinkedIn: https://www.linkedin.com/in/nunezzz/
+
+
+
+
