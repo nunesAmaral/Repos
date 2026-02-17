@@ -1,4 +1,4 @@
-# Repos: um repositório web para trabalhos acadêmicos dos Institutos Federais.
+# Repos: protótipo de repositório para trabalhos acadêmicos da rede de ensino IFC 
 
 ![image](https://user-images.githubusercontent.com/72924450/214700112-5af2d6f4-63b4-4eda-a5cd-a4ecc7acc6cf.png)
 
